@@ -23,7 +23,7 @@ Consta de tres botones interactivos:
 -BotonB
 
 
-![Consola](![Boton onOff](nintendoPresentacion.jpg))
+![Consola](![Boton onOff](img/nintendoPresentacion.jpg))
 
 
 Encontramos el boton que enciende y apaga el Nintendo y dos botones color rosado que muestra varias imagenes del juego.
