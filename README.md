@@ -1,18 +1,6 @@
 #
 
-#### Table of Contents
-
-- [How to run](#How-to-run-)
-- [DB](#DB-)
-- [Backend](#Backend-)
-    -[User endpoints](#USER)
-    -[Product endpoints](#MOVIE)
-
--  [Frontend](#Fronted-)
-
-#
-
-## NINTENDO GAME-BOY -[Frontend](#Frontend-)
+## NINTENDO GAME-BOY 
 
 Proyecto n2 donde presento una consola de Nintendo Game-Boy que tiene botones donde se puede interactuar, 
 
@@ -22,6 +10,8 @@ Consta de tres botones interactivos:
 -BotonA
 -BotonB
 
+
+## FUNCIONAMIENTO DE LA CONSOLA
 
 ![Consola] (![Boton onOff](img/nintendoPresentacion.jpg))
 
@@ -43,8 +33,14 @@ Podemos encontrar dos botones rosados en la parte inferior derecha, el boton que
              (![Boton B](img/gameOver2.jpg)) 
 
             
-
 Al hacer clic en otro boton rosado que se encuentra del lado izquierdo, podemos encontrar una imagen de Game Over y si le volvemos a dar clic aparecera en Gif.
+
+## TECNOLOGIAS UTILIZADAS 
+
+-HTML
+-CSS3
+-BOOTSTRAP
+-JAVASCRIPT
 
 ## AUTOR 
 
